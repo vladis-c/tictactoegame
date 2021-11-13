@@ -1,0 +1,13 @@
+.button {
+  background-color: rgba(136, 84, 84, 0.507);
+  color: rgba(250, 250, 250, 0.801);
+  border: "2px solid darkgreen";
+  font-size: "30px";
+  font-weight: "bold";
+  cursor: "pointer";
+  outline: "none";
+}
+
+.button.filled {
+  background-color: cadetblue;
+}
